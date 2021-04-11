@@ -2,7 +2,7 @@
 Predicting energy consumption using LSTM and combine CNN-LSTM 
 
 
-kaggle notebook link : https://www.kaggle.com/robikscube/hourly-energy-consumption
+kaggle notebook link : https://www.kaggle.com/raaavan/bidirectional-lstm
 
 About dataset : <br/>
 
